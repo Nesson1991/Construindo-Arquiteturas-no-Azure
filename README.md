@@ -15,3 +15,11 @@ Nesta aula de laboratório, tive a oportunidade de explorar os principais compon
 🗃️ Azure SQL Database: Discutimos o uso de bancos de dados gerenciados para armazenar e gerenciar dados relacionais. Configuramos uma instância SQL e exploramos funcionalidades como alta disponibilidade e backups automáticos.
 
 🛡️ Azure Monitor e Azure Security Center: Esses serviços ajudam a monitorar o desempenho e a segurança dos sistemas. O Azure Monitor coleta métricas em tempo real, enquanto o Security Center identifica vulnerabilidades e oferece recomendações.
+
+### Aprendizados
+
+| Aspecto        | Descrição                                                                                     |
+|----------------|------------------------------------------------------------------------------------------------|
+| ⚡ **Elasticidade** | O Azure ajusta automaticamente os sistemas para crescer ou reduzir de acordo com a demanda.  |
+| 🔒 **Segurança**    | Ferramentas como autenticação multifator e controle avançado de rede garantem arquiteturas seguras. |
+| 💸 **Custos**       | Com o Azure Cost Management, dá para monitorar e otimizar o uso de recursos, mantendo os custos sob controle. |
